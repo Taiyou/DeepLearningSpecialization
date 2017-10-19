@@ -6,8 +6,8 @@ Note: This is for my self-repository. Please solve Quiz and Assignments by yours
 you can also apply financial aid for the course. Take that opportunity.
 
 # Courses
-#1. Neural Netwworkd and Deep Learning.
-#2. Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization.
-#3. Structuring Machine Learning Projects.
-#4. Convolutional Neural Networks.
-#5. Sequence Models.
+-1. Neural Netwworkd and Deep Learning.
+-2. Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization.
+-3. Structuring Machine Learning Projects.
+-4. Convolutional Neural Networks.
+-5. Sequence Models.
