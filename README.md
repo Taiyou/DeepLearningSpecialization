@@ -1,7 +1,8 @@
 # DeepLearningSpecialization
 
 # Introduction
-This is [the Deep Learning Specialization by Andrew Ng in Coursera] (https://www.coursera.org/specializations/deep-learning).
+This is the Deep Learning Specialization by Andrew Ng in Coursera.
+[Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 Note: This is for my self-repository. Please solve Quiz and Assignments by yourself.
 you can also apply financial aid for the course. Take that opportunity.
 
