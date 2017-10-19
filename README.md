@@ -1,5 +1,5 @@
 # DeepLearningSpecialization
-<<<<<<< HEAD
+
 This is the repository for Deep Learning Specialization.
 =======
 
@@ -15,4 +15,3 @@ you can also apply financial aid for the course. Take that opportunity.
 * 3. Structuring Machine Learning Projects.
 * 4. Convolutional Neural Networks.
 * 5. Sequence Models.
->>>>>>> 76c3065c4e5fd44c39e394d3f81de1171ddcdb00
