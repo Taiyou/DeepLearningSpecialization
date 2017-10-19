@@ -4,5 +4,6 @@ This is the first course of the Deep Learning Specialization.
 # 2. Logistic Regression witn a Neural Network Mindset
   - course2 Quiz
   - course2 programming assignment: 
+    Course2_Logistic_Regression_with_a_Neural_Network_mindset.ipynb
 # 3. Shallow Neural Networks
 # 4. Deep Neural Networks Application
