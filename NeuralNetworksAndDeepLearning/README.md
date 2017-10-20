@@ -1,6 +1,8 @@
 
 # DeepLearningSpecialization
 
+This is the repository for Deep Learning Specialization.
+
 # Introduction
 This is the Deep Learning Specialization by Andrew Ng in Coursera.
 [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
