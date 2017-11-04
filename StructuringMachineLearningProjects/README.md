@@ -22,5 +22,14 @@ This is a standalone course, and you can take this so long as you have basic mac
 
 These measures are to show performance.
 
+- Satisficing and Optimizing metric:
+
+Optimizing measure to get as high as possible while satisficing measure should be about sufficient conditions.
+
+eg. Accuracy (Optimizing metric) and calculation time (Satisficing metric)
+
+- Train/dev/test distributions
+
+Aim to choose ditributions of test dataset which corresponding to distributions of training datasets.
 
 # Week 2
