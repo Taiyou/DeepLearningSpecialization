@@ -32,4 +32,11 @@ eg. Accuracy (Optimizing metric) and calculation time (Satisficing metric)
 
 Aim to choose ditributions of test dataset which corresponding to distributions of training datasets.
 
+- size of the dev and test sets
+
+Old way is to divide data into training and test sets with leave-one out style.
+However, in the recent machine learning framework, most of the data is utilized to train an algorithm (might be over 99%).
+
+
+
 # Week 2
