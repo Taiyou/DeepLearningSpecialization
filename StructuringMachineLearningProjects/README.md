@@ -16,4 +16,7 @@ I've seen teams waste months or years through not understanding the principles t
 
 This is a standalone course, and you can take this so long as you have basic machine learning knowledge. This is the third course in the Deep Learning Specialization.
 # Week 1
+* Setting up your goal
+- Orthogonalization: extraction of features which are as mutually independent as possible.
+
 # Week 2
