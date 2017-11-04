@@ -22,4 +22,3 @@ This is the first course of the Deep Learning Specialization.
   - [course2 programming assignment](https://github.com/Taiyou/DeepLearningSpecialization/blob/master/NeuralNetworksAndDeepLearning/Course2_Logistic_Regression_with_a_Neural_Network_mindset.ipynb) 
 # 3. Shallow Neural Networks
 # 4. Deep Neural Networks Application
->>>>>>> 76c3065c4e5fd44c39e394d3f81de1171ddcdb00
