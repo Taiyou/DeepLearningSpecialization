@@ -18,5 +18,8 @@ This is a standalone course, and you can take this so long as you have basic mac
 # Week 1
 * Setting up your goal
 - Orthogonalization: extraction of features which are as mutually independent as possible.
+- Sngile number evaluation metric: Recall, Precision, and Harmonic mean.
+  These measures are to show performance.
+- 
 
 # Week 2
