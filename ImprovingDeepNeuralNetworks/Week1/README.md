@@ -20,8 +20,7 @@ advantage: Computation is easier.
 disadvantage: This process coumples minimizing a cost function and avoiding overfiting.
 
 As replacement for this early stopping, you can use L2 regularization.
-However, L2 reuglarization also requires additional calculations for $$\lambda$$
-
+However, L2 reuglarization also requires additional calculations for <a href="https://www.codecogs.com/eqnedit.php?latex=\lambda" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\lambda" title="\lambda" /></a>
 # Setting up your optimization problem
 - normalizing input
 -
