@@ -23,4 +23,5 @@ As replacement for this early stopping, you can use L2 regularization.
 However, L2 reuglarization also requires additional calculations for <a href="https://www.codecogs.com/eqnedit.php?latex=\lambda" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\lambda" title="\lambda" /></a>
 # Setting up your optimization problem
 - normalizing input
--
+- Vanishing / Exploding gradient problem
+- Weight initialization for Deep Networks
