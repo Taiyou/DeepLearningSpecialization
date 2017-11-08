@@ -53,7 +53,7 @@ Answer: 4.
 - 3. Doubling lambda should roughly result in doubling the weights
 - 4. Gradient descent taking bigger steps with each iteration (proportional to lambda)
 
-Answer: 1?
+Answer: 1
 
 # 7. With the inverted dropout technique, at test time:
 - 1. You apply dropout (randomly eliminating units) and do not keep the 1/keep_prob factor in the calculations used in training
