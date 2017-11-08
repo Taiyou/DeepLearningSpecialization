@@ -147,7 +147,7 @@ What can you conclude? (Check all that apply.)
 3. Rethink the appropriate metric for this task, and ask your team to tune to the new metric.
 4. Pick false negative rate as the new metric, and use this new metric to drive all further development.
 
-# Answer: 
+# Answer: 3.
 
 # 14. You’ve handily beaten your competitor, and your system is now deployed in Peacetopia and is protecting the citizens from birds! But over the last few months, a new species of bird has been slowly migrating into the area, so the performance of your system slowly degrades because your data is being tested on a new type of data. You have only 1,000 images of the new species of bird. The city expects a better system from you within the next 3 months. Which of these should you do first?
 
