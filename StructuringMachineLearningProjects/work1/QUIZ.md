@@ -41,6 +41,8 @@ If you had the three following models, which one would you choose?
 3. Accuracy, running time and memory size are all optimizing metrics because you want to do well on all three.
 4. Accuracy, running time and memory size are all satisficing metrics because you have to do sufficiently well on all three for your system to be acceptable.
 
+Answer: 3
+
 # 4. Structuring your data
 Before implementing your algorithm, you need to split your data into train/dev/test sets. Which of these do you think is the best choice?
 
