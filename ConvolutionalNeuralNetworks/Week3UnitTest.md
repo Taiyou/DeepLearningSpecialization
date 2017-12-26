@@ -8,6 +8,7 @@
 ## Answer: 
 
 # Q2. Continuing from the previous problem, what should y be for the image below? Remember that “?” means “don’t care”, which means that the neural network loss function won’t care what the neural network gives for that component of the output. As before, y=[pc,bx,by,bh,bw,c1,c2,c3].
+![alt tag](images/week3_figure2.png)
 ## y=[1,?,?,?,?,0,0,0]
 ## y=[?,?,?,?,?,?,?,?]
 ## y=[1,?,?,?,?,?,?,?]
